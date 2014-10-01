@@ -1,5 +1,6 @@
 #エッセンシャルスクラム読書会
 
+[![エッセンシャルスクラム書影](https://connpass-tokyo.s3.amazonaws.com/thumbs/3a/32/3a32b634de6e1068a7ba9e19d01ad242.png)](http://amzn.to/1qUFjzl)
 
 ##ディスカッション記録
 疑問に感じた事を下記リンク内のページに追記して下さい。  
