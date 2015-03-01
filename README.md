@@ -25,3 +25,5 @@
 - [読書会 9th 2015.02.10 ディスカッション](https://github.com/kyoto-agile/essential_scrum/wiki/%E8%AA%AD%E6%9B%B8%E4%BC%9A-9th-2015.02.10-%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3)
 
 - [読書会 10th 2015.02.25 ディスカッション](https://github.com/kyoto-agile/essential_scrum/wiki/%E8%AA%AD%E6%9B%B8%E4%BC%9A-10th-2015.02.25-%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3)
+
+- [読書会 11th 2015.03.11 ディスカッション](https://github.com/kyoto-agile/essential_scrum/wiki/%E8%AA%AD%E6%9B%B8%E4%BC%9A-11th-2015.03.11-%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3)
